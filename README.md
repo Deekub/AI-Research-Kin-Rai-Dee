@@ -8,7 +8,7 @@ This repository contains the research project developed for the **Institute of D
 ## 📌 Project Overview
 * **Objective:** To evaluate productivity via development time and assess software quality based on the **ISO/IEC 25010** international framework.
 * **Application:** "Kin Rai Dee" - A food decision-making mobile app featuring menu filtering, random shuffle, and tournament modes.
-* **Timeline:** October 2024 - January 2025[cite: 184].
+* **Timeline:** October 2024 - January 2025.
 * **Tech Stack:** React Native, Expo SDK, and libraries like `react-native-paper` and `react-native-reanimated`.
 
 ---
